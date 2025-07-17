@@ -24,7 +24,7 @@ translate spanish strings:
 
     # renpy/common/00accessibility.rpy:34
     old "viewport"
-    new ""
+    new "viewport"
 
     # renpy/common/00accessibility.rpy:35
     old "horizontal scroll"
@@ -64,7 +64,7 @@ translate spanish strings:
 
     # renpy/common/00accessibility.rpy:148
     old "DejaVu Sans"
-    new ""
+    new "DejaVu Sans"
 
     # renpy/common/00accessibility.rpy:152
     old "Opendyslexic"
@@ -436,7 +436,7 @@ translate spanish strings:
 
     # renpy/common/00director.rpy:1812
     old "Transition:"
-    new ""
+    new "Transición:"
 
     # renpy/common/00director.rpy:1822
     old "Click to set."
@@ -560,7 +560,7 @@ translate spanish strings:
 
     # renpy/common/00preferences.rpy:354
     old "skip"
-    new ""
+    new "saltar"
 
     # renpy/common/00preferences.rpy:357
     old "skip unseen [text]"

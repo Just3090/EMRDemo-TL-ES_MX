@@ -1480,181 +1480,181 @@ translate spanish game_script_ed9b6a19:
 translate spanish game_script_b87607fb:
 
     # "I compose myself."
-    ""
+    "Me trato de calmar."
 
 # game/game_script.rpy:448
 translate spanish game_script_4cf61e75:
 
     # mc "You nearly died."
-    mc ""
+    mc "Estuviste a nada de irte con San Pedro."
 
 # game/game_script.rpy:451
 translate spanish game_script_dcd1d071:
 
     # "Sayori closes her eyes and takes a stuttered breath."
-    ""
+    "Sayori cierra los ojos y respira entrecortado."
 
 # game/game_script.rpy:452
 translate spanish game_script_3d29b334:
 
     # "It’s like the words are finally hitting her."
-    ""
+    "Como que por fin le cae el veinte."
 
 # game/game_script.rpy:454
 translate spanish game_script_6b065b83:
 
     # "She looks away, wipes her eyes and changes the topic quickly."
-    ""
+    "Voltea, se limpia los ojos y cambia de tema rápido."
 
 # game/game_script.rpy:457
 translate spanish game_script_9735a511:
 
     # s "W-What about the festival?"
-    s ""
+    s "¿Y el festival?"
 
 # game/game_script.rpy:459
 translate spanish game_script_c4f2131c:
 
     # s "Did you talk to Monika about it yet?"
-    s ""
+    s "¿Ya hablaste con Monika de eso?"
 
 # game/game_script.rpy:461
 translate spanish game_script_e9f1a195:
 
     # "I hesitate."
-    ""
+    "Dudo tantito."
 
 # game/game_script.rpy:462
 translate spanish game_script_11b897f3:
 
     # "I don’t want Sayori to feel like it’s her fault that the performance was cancelled, so I decide to start with Natsuki’s absence."
-    ""
+    "No quiero que Sayori piense que fue su culpa que se canceló la presentación, así que empiezo hablando de Natsuki."
 
 # game/game_script.rpy:464
 translate spanish game_script_b730b467:
 
     # mc "Well...Natsuki didn’t show up either."
-    mc ""
+    mc "Pues... Natsuki tampoco llegó."
 
 # game/game_script.rpy:465
 translate spanish game_script_f7a2f400:
 
     # mc "Monika had to cancel the performance, unfortunately."
-    mc ""
+    mc "Monika tuvo que cancelar la presentación, ni modo."
 
 # game/game_script.rpy:467
 translate spanish game_script_a8dbd88e:
 
     # s "You didn’t...{w}You didn’t tell her, did you?"
-    s ""
+    s "No le...{w}no le dijiste, ¿verdad?"
 
 # game/game_script.rpy:469
 translate spanish game_script_c63ce692:
 
     # s "About-{w=0.4}{nw}"
-    s ""
+    s "Sobre-{w=0.4}{nw}"
 
 # game/game_script.rpy:471
 translate spanish game_script_8aca707a:
 
     # mc "I didn’t."
-    mc ""
+    mc "No le dije."
 
 # game/game_script.rpy:473
 translate spanish game_script_f2221ff1:
 
     # mc "Unless you want to talk to her about it yourself, she won't know."
-    mc ""
+    mc "A menos que tú quieras contarle, no se va a enterar."
 
 # game/game_script.rpy:474
 translate spanish game_script_1b199792:
 
     # mc "Okay?"
-    mc ""
+    mc "¿Va?"
 
 # game/game_script.rpy:477
 translate spanish game_script_eabc28ba:
 
     # "Sayori nods, wiping her eyes with her forearm once more."
-    ""
+    "Sayori asiente y se limpia los ojos con el brazo otra vez."
 
 # game/game_script.rpy:480
 translate spanish game_script_8210b50f:
 
     # s "I...{w}think I’ll tell her."
-    s ""
+    s "Creo que...{w}sí le voy a contar."
 
 # game/game_script.rpy:482
 translate spanish game_script_6aece9a9:
 
     # s "So she knows wh-why her plans for the festival were ruined."
-    s ""
+    s "Para que sepa por qué se arruinaron sus planes para el festival."
 
 # game/game_script.rpy:485
 translate spanish game_script_d3be9f31:
 
     # "I can tell what she’s going to say."
-    ""
+    "Ya sé lo que va a decir."
 
 # game/game_script.rpy:488
 translate spanish game_script_97303de1:
 
     # mc "Hey, it wasn’t your fault, Sayori."
-    mc ""
+    mc "Oye, no fue tu culpa, Sayori."
 
 # game/game_script.rpy:489
 translate spanish game_script_850d76d0:
 
     # mc "None of this is."
-    mc ""
+    mc "Nada de esto lo es."
 
 # game/game_script.rpy:491
 translate spanish game_script_a6d28ad9:
 
     # "Sayori grabs my hand tightly, crushing it in a vice-like grip."
-    ""
+    "Me agarra la mano bien fuerte, casi me la aplasta."
 
 # game/game_script.rpy:493
 translate spanish game_script_4903a918:
 
     # mc "You can talk to her if you really want to."
-    mc ""
+    mc "Si quieres, puedes hablar con ella."
 
 # game/game_script.rpy:494
 translate spanish game_script_8a7f9c9a:
 
     # mc "Hell, she’d probably be able to give better advice than me."
-    mc ""
+    mc "La neta, seguro te da mejores consejos que yo."
 
 # game/game_script.rpy:496
 translate spanish game_script_42c3de85:
 
     # s "Maybe..."
-    s ""
+    s "Tal vez..."
 
 # game/game_script.rpy:500
 translate spanish game_script_2299f5fa:
 
     # s "Did you...{w}tell my parents?"
-    s ""
+    s "¿Les...{w}contaste a mis papás?"
 
 # game/game_script.rpy:502
 translate spanish game_script_3f739ce1_1:
 
     # "I sigh."
-    ""
+    "Suspiro."
 
 # game/game_script.rpy:504
 translate spanish game_script_2485f494:
 
     # mc "I..."
-    mc ""
+    mc "Yo..."
 
 # game/game_script.rpy:506
 translate spanish game_script_f71ca5b5:
 
     # mc "I did, yeah."
-    mc ""
+    mc "Sí, sí les conté."
 
 # game/game_script.rpy:507
 translate spanish game_script_63ffe930:

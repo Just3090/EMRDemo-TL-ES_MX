@@ -16,7 +16,7 @@ translate spanish game_script_f55f58cd:
 translate spanish game_script_5f35e367:
 
     # "But Sayori isn't answering her phone."
-    "pero Sayori no contesta el teléfono."
+    "pero Sayori ni contesta el teléfono."
 
 # game/game_script.rpy:18
 translate spanish game_script_f01b5f50:
@@ -34,7 +34,7 @@ translate spanish game_script_bf20ec7b:
 translate spanish game_script_e601aa4e:
 
     # "Even the simple gesture of walking her to school makes her really happy."
-    "El simple hecho de que vayamos juntos a clase le alegra el día."
+    "Con el simple hecho de que vayamos juntos a clase ya se me pone bien contenta"
 
 # game/game_script.rpy:21
 translate spanish game_script_70e7cabf:
@@ -58,13 +58,13 @@ translate spanish game_script_e35fe926:
 translate spanish game_script_8a012772:
 
     # "The hell with it. I'll go get her."
-    "A la mierda, me voy a por Sayori."
+    "A la chingada todo, me voy a por Sayori."
 
 # game/game_script.rpy:25
 translate spanish game_script_6f7f2a01:
 
     # "I grab the cupcakes Natsuki and I made yesterday, and make my way to Sayori's."
-    "Cojo los cupcakes que hicimos Natsuki y yo ayer y voy directo a casa de Sayori."
+    "Agarro los cupcakes que hicimos Natsuki y yo ayer y me largo a casa de Sayori."
 
 # game/game_script.rpy:29
 translate spanish game_script_558b962d:
@@ -76,7 +76,7 @@ translate spanish game_script_558b962d:
 translate spanish game_script_b8d78e77:
 
     # "I don't expect an answer, since she's not picking up her phone, either."
-    "No coge mis llamadas, así que tampoco espero respuesta."
+    "No contesta mis llamadas, así que tampoco espero respuesta."
 
 # game/game_script.rpy:31
 translate spanish game_script_a19898c6:
@@ -88,7 +88,7 @@ translate spanish game_script_a19898c6:
 translate spanish game_script_4f4ec354:
 
     # "She really is a heavy sleeper..."
-    "Duerme como una marmota..."
+    "Duerme como la bella durmiente..."
 
 # game/game_script.rpy:39
 translate spanish game_script_17df0a8d:
@@ -142,7 +142,7 @@ translate spanish game_script_e766b9e2:
 translate spanish game_script_2d697678:
 
     # mc "Wake up, dummy..."
-    mc "Despierta, idiota..."
+    mc "Despierta, mensita..."
 
 # game/game_script.rpy:48
 translate spanish game_script_4f673053:
@@ -196,13 +196,13 @@ translate spanish game_script_2d7cce6a:
 translate spanish game_script_d61e5692:
 
     # "Sayori stands at the foot of her bed, a long rope in her hand."
-    "Sayori está frente a su cama, con una cuerda bastante larga en su mano."
+    "Sayori está frente a su cama, con una cuerda bien larga en su mano."
 
 # game/game_script.rpy:68
 translate spanish game_script_211cae4d:
 
     # "It's tied into a hangman's noose."
-    "Está anudándola con el propósito de ahorcarse."
+    "Está anudándola con... ¿el propósito de ahorcarse?"
 
 # game/game_script.rpy:69
 translate spanish game_script_9c578752:
@@ -214,13 +214,13 @@ translate spanish game_script_9c578752:
 translate spanish game_script_0ecfd99c:
 
     # "The tray clatters to the floor."
-    "La bandeja traquetea en el suelo."
+    "La bandeja decide chingarse en el suelo."
 
 # game/game_script.rpy:72
 translate spanish game_script_1687cf73:
 
     # mc "Oh my God..."
-    mc "Dios mío..."
+    mc "La Virgen Santa..."
 
 # game/game_script.rpy:75
 translate spanish game_script_226ccb92:
@@ -262,7 +262,7 @@ translate spanish game_script_0c6d3861:
 translate spanish game_script_accadaea:
 
     # "I didn't listen, didn't see the signs."
-    "No escuché, no vi las señales. Tenía orejas y ojos completamente sellados."
+    "No escuché, no vi las señales. Tenía orejas y ojos de pescado."
 
 # game/game_script.rpy:89
 translate spanish game_script_5ba299ee:
@@ -280,7 +280,7 @@ translate spanish game_script_ea79bebf:
 translate spanish game_script_5046be86:
 
     # "Sayori drops the noose, dropping to the floor with a heavy thud."
-    "Sayori suelta la cuerda, cayendo al suelo con un golpe seco."
+    "Sayori suelta la cuerda, cayendo al suelo con un golpe en seco."
 
 # game/game_script.rpy:93
 translate spanish game_script_8fe1a0ff:
@@ -298,7 +298,7 @@ translate spanish game_script_e87e0575:
 translate spanish game_script_9eaafb91:
 
     # "She gets up and rushes towards me, clutching my shirt and crying into my chest."
-    "Se abalanza hacia mí, arrugando mi camisa mientras llora en mi pecho."
+    "Se avienta hacia mí, arrugando mi camisa mientras llora en mi pecho."
 
 # game/game_script.rpy:98
 translate spanish game_script_1f4c19a1:
@@ -490,7 +490,7 @@ translate spanish game_script_23d81314:
 translate spanish game_script_b88b4335:
 
     # "She backs away, catching her breath."
-    "Retrocede, cogiendo aire."
+    "Retrocede, tomando un poco de aire."
 
 # game/game_script.rpy:157
 translate spanish game_script_cb759382:
@@ -556,7 +556,7 @@ translate spanish game_script_8e339ee2:
 translate spanish game_script_0f7425d2:
 
     # mc "Screw the festival."
-    mc "Que le den al festival, Sayori."
+    mc "Con una chingada el festival, Sayori."
 
 # game/game_script.rpy:180
 translate spanish game_script_3ed8bb9a:
@@ -664,13 +664,13 @@ translate spanish game_script_b601bb12:
 translate spanish game_script_eceb1560:
 
     # mc "We can take the bus."
-    mc "Podemos ir en autobús."
+    mc "Podemos ir caminando."
 
 # game/game_script.rpy:213
 translate spanish game_script_7a206056:
 
     # s "W-well..."
-    s "Vale, p-pero,"
+    s "Sip, p-pero,"
 
 # game/game_script.rpy:214
 translate spanish game_script_48db5161:
@@ -694,25 +694,25 @@ translate spanish game_script_42d3094e:
 translate spanish game_script_3fbb9852:
 
     # "I nod, and take a step outside the door, reaching down to pick up the rope first, taking it with me."
-    "Asiento, retrocedo y me agacho para coger la cuerda."
+    "Asiento, retrocedo y me agacho para recoger la condenada cuerda."
 
 # game/game_script.rpy:220
 translate spanish game_script_c199bc28:
 
     # "{i}Just in case{/i}."
-    "Por si acaso."
+    "Por si acaso, prefiero prevenir que lamentar."
 
 # game/game_script.rpy:222
 translate spanish game_script_e12d3b1f:
 
     # "She gently nods, shutting the door in my face."
-    "Parece entenderlo, porque asiente y me cierra la puerta en la cara."
+    "Parece entenderlo, porque asiente y me cierra la puerta en toda la cara."
 
 # game/game_script.rpy:229
 translate spanish game_script_b064db71:
 
     # "Again, I'm a little anxious, leaving her alone right after...{w}{i}that{/i}."
-    "Vuelvo a estar nervioso. Acabo de dejarla sola después de... 'eso' que acaba de ocurrir hace escasos minutos."
+    "Vuelvo a estar nervioso. Acabo de dejarla sola después de... 'eso' que acaba de ocurrir hace nada."
 
 # game/game_script.rpy:230
 translate spanish game_script_64c3c9bf:
@@ -724,13 +724,13 @@ translate spanish game_script_64c3c9bf:
 translate spanish game_script_cf84f0ed:
 
     # "I kneel down, beginning to clean up the cupcake massacre littering the floor with a towel."
-    "Me agacho para empezar a limpiar, con una toalla, el desastre que he ocasionado con los cupcakes."
+    "Me agacho para empezar a limpiar, con una toalla, el desastre que hice con los cupcakes."
 
 # game/game_script.rpy:232
 translate spanish game_script_21408033:
 
     # "Natsuki is going to kill me."
-    ""
+    "Natsuki me va a partir mi mandarina"
 
 # game/game_script.rpy:233
 translate spanish game_script_5865ec9e:
@@ -760,7 +760,7 @@ translate spanish game_script_11892a07:
 translate spanish game_script_e9851d0e:
 
     # "Taking a deep breath, I sit down for a minute."
-    "Cogiendo aire, me siento un poco."
+    "Respiro profundo, me siento un poco."
 
 # game/game_script.rpy:238
 translate spanish game_script_2b018eab:
@@ -844,13 +844,13 @@ translate spanish game_script_516104f5:
 translate spanish game_script_ef751428:
 
     # "I take a deep breath, and sigh."
-    "Cojo aire y suspiro."
+    "Tomo aire y suspiro."
 
 # game/game_script.rpy:267
 translate spanish game_script_8e9c953b:
 
     # mc "I'll be honest with you...{w}I don't know."
-    mc "Mira, Sayori, seré honesto contigo...:{w} no tengo ni idea."
+    mc "Mira, Sayori, seré honesto contigo...:{w} no tengo ni la menor idea."
 
 # game/game_script.rpy:268
 translate spanish game_script_64ab6bc6:
@@ -862,7 +862,7 @@ translate spanish game_script_64ab6bc6:
 translate spanish game_script_6895e3f1:
 
     # mc "Come on, let's get going."
-    mc "Vamos, tenemos que irnos."
+    mc "Vamos, hay que irnos."
 
 # game/game_script.rpy:286
 translate spanish game_script_098ee451:
@@ -898,13 +898,13 @@ translate spanish game_script_ac25c0b0:
 translate spanish game_script_6920d10f:
 
     # "Suddenly, my pocket rumbles, as my phone springs to life."
-    "De repente, me vibra el bolsillo y eso quiere decir que mi teléfono da señales de vida."
+    "De repente, me vibra el pantalón y eso quiere decir que mi celular da señales de vida por lo menos."
 
 # game/game_script.rpy:293
 translate spanish game_script_d5aeed6b:
 
     # "I quickly pull it out and notice a text from Monika."
-    "Lo saco rápidamente para ver que Monika me ha escrito un mensaje de texto."
+    "Lo saco rápidamente para ver que Monika me ha escrito un Wuasap."
 
 # game/game_script.rpy:294
 translate spanish game_script_7e081204:
@@ -916,7 +916,7 @@ translate spanish game_script_7e081204:
 translate spanish game_script_beac872d:
 
     # "Damn it. I should have told her that I couldn’t make it."
-    "Mierda, debí haberle avisado de que no me daba tiempo a llegar."
+    "Pinche madre, debí haberle avisado de que no me daba tiempo a llegar."
 
 # game/game_script.rpy:298
 translate spanish game_script_da7b12c0:
@@ -934,7 +934,7 @@ translate spanish game_script_428b976c:
 translate spanish game_script_070626b3:
 
     # mc "Sorry got caught up"
-    mc "Perdona, liado estoy."
+    mc "Perdona, ocupado estoy."
 
 # game/game_script.rpy:303
 translate spanish game_script_acd509b0:
@@ -1000,7 +1000,7 @@ translate spanish game_script_7fed3493:
 translate spanish game_script_24135849:
 
     # "I can see what appears to be Sayori breaking down in her chair, her arms folded on the doctor’s desk, her head rested upon them."
-    "Puedo ver lo que parece Sayori desconsolada en su silla mientras abraza al doctor."
+    "Puedo ver lo que parece, una Sayori desconsolada en su silla mientras abraza al doctor."
 
 # game/game_script.rpy:315
 translate spanish game_script_1d4989ab:
@@ -1018,19 +1018,19 @@ translate spanish game_script_c46788a8:
 translate spanish game_script_3a6f204e:
 
     # "But my phone buzzes again in my hand, and I turn my attention back to it."
-    "Mi teléfono vuelve a vibrar y mi atención vuelve a él."
+    "Mi celular vuelve a vibrar y mi atención vuelve a él."
 
 # game/game_script.rpy:320
 translate spanish game_script_ff09dd46:
 
     # m "its just me and yuri here, shes really nervous about performing as is"
-    m "solo estamos yuri y yo, y ella está muy nerviosa con esto del recital"
+    m "solo estamos yuri y yo, y está muy nerviosa con esto del recital"
 
 # game/game_script.rpy:321
 translate spanish game_script_424011c2:
 
     # m "im trying to pep her up but without you guys, i dont think shell do it"
-    m "trato de animarla, pero sin vosotros, es caso perdido"
+    m "trato de animarla, pero sin ustedes, es caso perdido"
 
 # game/game_script.rpy:322
 translate spanish game_script_39088847:
@@ -1042,13 +1042,13 @@ translate spanish game_script_39088847:
 translate spanish game_script_070af8a4:
 
     # mc "I’m sorry it’s a personal issue"
-    mc "Lo siento mucho, monika, es un asunto personal."
+    mc "Lo siento mucho, monika, es un asuntito muy personal."
 
 # game/game_script.rpy:324
 translate spanish game_script_4a202c90:
 
     # mc "Can’t promise anything but I’ll try to get there before it’s over ok?"
-    mc "No te prometo nada, pero intentaré estar allí antes de que acabe el festival, ¿vale?"
+    mc "No te prometo nada, pero intentaré estar allí antes de que acabe el festival, ¿va?"
 
 # game/game_script.rpy:325
 translate spanish game_script_10c89ca0:
@@ -1066,7 +1066,7 @@ translate spanish game_script_00229c7c:
 translate spanish game_script_f093c9c4:
 
     # m "nvm everyones here already and theyre waiting"
-    m "está todo quisqui aquí y están esperándonos"
+    m "está todo de la chingada aquí y están esperándonos"
 
 # game/game_script.rpy:332
 translate spanish game_script_53711d97:
@@ -1078,7 +1078,7 @@ translate spanish game_script_53711d97:
 translate spanish game_script_f077a9c5:
 
     # "I return the phone to my pocket, running my hands through my hair."
-    "Pongo el teléfono en mi bolsillo mientras me paso las manos a través del pelo."
+    "Pongo el teléfono en mi pantalón mientras me paso las manos a través del cabello."
 
 # game/game_script.rpy:335
 translate spanish game_script_dbdd01fa:
@@ -1090,7 +1090,7 @@ translate spanish game_script_dbdd01fa:
 translate spanish game_script_9041f8f1:
 
     # "I feel terrible for Sayori, the fact that she’s in such pain right now and how oblivious I was to all of it."
-    "Me siento fatal por Sayori, por el hecho de que esté sufiendo tanto y lo ajeno que fui a ello."
+    "Me siento fatal por Sayori, por el hecho de que esté sufiendo tanto y lo pendejo que fui por ello."
 
 # game/game_script.rpy:337
 translate spanish game_script_42f823c1:
@@ -1114,13 +1114,13 @@ translate spanish game_script_cfbbfc3a:
 translate spanish game_script_2915010a:
 
     # "Where {i}is{/i} Natsuki?"
-    "¿Dónde está Natsuki?"
+    "¿Dónde putas está Natsuki?"
 
 # game/game_script.rpy:342
 translate spanish game_script_8c669595:
 
     # "What the hell is with today?"
-    "¿Se puede saber qué coño pasa hoy?"
+    "¿Se puede saber qué puta mierda pasa hoy?"
 
 # game/game_script.rpy:343
 translate spanish game_script_475c9ab5:
@@ -1156,13 +1156,13 @@ translate spanish game_script_a9a360f5:
 translate spanish game_script_aa3ffd3b:
 
     # "My phone buzzes again."
-    "Me vibra el teléfono de nuevo."
+    "Me vibra el celular de nuevo."
 
 # game/game_script.rpy:351
 translate spanish game_script_75516838:
 
     # m "are you sure you don’t know where sayori or natsuki are?"
-    m "estas seguro de que no sabes dónde están esas dos???"
+    m "estas bien pinches seguro de que no sabes dónde están esas dos jijas de su madresita???"
 
 # game/game_script.rpy:353
 translate spanish game_script_24b7313d:
@@ -1216,7 +1216,7 @@ translate spanish game_script_e45b3e46:
 translate spanish game_script_e95aa5f3:
 
     # m "well, it doesnt really matter now anyway"
-    m "bueno, ya no importa mucho"
+    m "bueno ya mierda, ya no importa"
 
 # game/game_script.rpy:365
 translate spanish game_script_803ddf77:
@@ -1240,7 +1240,7 @@ translate spanish game_script_a9e9fe9e:
 translate spanish game_script_61fae46f:
 
     # "Crap."
-    "Mierda. Mierda, mierda, mierda, mierda."
+    "Dios santo de mi vida."
 
 # game/game_script.rpy:371
 translate spanish game_script_d71fb389:
@@ -1252,7 +1252,7 @@ translate spanish game_script_d71fb389:
 translate spanish game_script_444e7bdb:
 
     # m "its fine"
-    m "no pasa nada"
+    m "ya pa' que, ya todo se fue a la chingada"
 
 # game/game_script.rpy:374
 translate spanish game_script_3f739ce1:
@@ -1360,7 +1360,7 @@ translate spanish game_script_172cf4b7:
 translate spanish game_script_dc54df45:
 
     # s "It’s t-true! I really messed up everything..."
-    s "¡Es c-cierto! Lo he fastidiado todo..."
+    s "¡Es c-cierto! Lo he arruinado todo..."
 
 # game/game_script.rpy:411
 translate spanish game_script_125a05a4:
@@ -1372,7 +1372,7 @@ translate spanish game_script_125a05a4:
 translate spanish game_script_dfa0e99d:
 
     # s "Monika’s probably upset about us not showing up for the festival."
-    s "Y lo más probable es que Monika esté enfadada por no habernos presentado en el festival."
+    s "Y lo más probable es que Monika esté encabronada por no habernos presentado en el festival."
 
 # game/game_script.rpy:414
 translate spanish game_script_1a82a9a8:
@@ -1450,7 +1450,7 @@ translate spanish game_script_c5ade5a8:
 translate spanish game_script_7c92b445:
 
     # s "I just don’t want to make a big deal out of it, especially with the other club members and-{w=0.4}{nw}"
-    s "Tampoco quiero hacer una montaña de un grano de arena, en especial con las chicas y...{w=0.4}{nw}"
+    s "Tampoco quiero hacer una montaña de los mil templos, en especial con las chicas y...{w=0.4}{nw}"
 
 # game/game_script.rpy:439
 translate spanish game_script_ec7fea2a:
@@ -1468,7 +1468,7 @@ translate spanish game_script_0a95b138:
 translate spanish game_script_27226702:
 
     # mc "You nearly k-...{w=0.4}{nw}"
-    mc "Casi la pal...{w=0.4}{nw}"
+    mc "Casi te chin...{w=0.4}{nw}"
 
 # game/game_script.rpy:445
 translate spanish game_script_ed9b6a19:
@@ -1570,7 +1570,7 @@ translate spanish game_script_f2221ff1:
 translate spanish game_script_1b199792:
 
     # mc "Okay?"
-    mc "¿Vale?"
+    mc "¿Va que va?"
 
 # game/game_script.rpy:477
 translate spanish game_script_eabc28ba:
@@ -1612,7 +1612,7 @@ translate spanish game_script_850d76d0:
 translate spanish game_script_a6d28ad9:
 
     # "Sayori grabs my hand tightly, crushing it in a vice-like grip."
-    "Sayori coge mi mano con fuerza, apretándola de forma implacable."
+    "Sayori toma mi mano con fuerza, apretándola de forma inimaginable."
 
 # game/game_script.rpy:493
 translate spanish game_script_4903a918:
@@ -1624,7 +1624,7 @@ translate spanish game_script_4903a918:
 translate spanish game_script_8a7f9c9a:
 
     # mc "Hell, she’d probably be able to give better advice than me."
-    mc "Joder, te aseguro que es la más indicada para aconsejarte."
+    mc "Dios, te aseguro que es la más indicada para aconsejarte."
 
 # game/game_script.rpy:496
 translate spanish game_script_42c3de85:
@@ -1636,7 +1636,7 @@ translate spanish game_script_42c3de85:
 translate spanish game_script_2299f5fa:
 
     # s "Did you...{w}tell my parents?"
-    s "¿Se lo has dicho...{nw} a mis padres?"
+    s "¿Se lo has dicho...{nw} a mis papás?"
 
 # game/game_script.rpy:502
 translate spanish game_script_3f739ce1_1:
@@ -1678,7 +1678,7 @@ translate spanish game_script_b5d5ba8a:
 translate spanish game_script_7507c9be:
 
     # s "I was too scared to tell them myself."
-    s "Tenía miedo de contarles nada."
+    s "Tenía miedo de contarles."
 
 # game/game_script.rpy:516
 translate spanish game_script_d4402a4a:
@@ -1696,7 +1696,7 @@ translate spanish game_script_6cfc8140:
 translate spanish game_script_988e906b:
 
     # s "I love you, [player]."
-    s "Te quiero, [player]."
+    s "Te amo, [player]."
 
 # game/game_script.rpy:522
 translate spanish game_script_2485f494_1:
@@ -1792,7 +1792,7 @@ translate spanish game_script_5d0bafbd:
 translate spanish game_script_9bc622b5:
 
     # "Jesus Christ."
-    "Dios mío."
+    "Dios mío del amor hermoso."
 
 # game/game_script.rpy:548
 translate spanish game_script_a5e8d1c4:
@@ -1816,13 +1816,13 @@ translate spanish game_script_b0a991d3:
 translate spanish game_script_f784173b:
 
     # mc "Look, I’ll keep my phone with me. If you have the chance, you can message me whenever you want."
-    mc "Mira, mi teléfono siempre está en mi bolsillo. Si tienes la oportunidad de poder escribirme, hazlo."
+    mc "Mira, mi celular siempre está en mi pantalón. Si tienes la oportunidad de poder hablarme, hazlo."
 
 # game/game_script.rpy:555
 translate spanish game_script_146b7f1a:
 
     # mc "Hell, I’ll even pick you up whenever they release you."
-    mc "Coño, si hasta puedo recogerte del hospital cuando te den el alta."
+    mc "Mames, si hasta puedo recogerte del hospital cuando te den el alta."
 
 # game/game_script.rpy:558
 translate spanish game_script_cafdc124:
@@ -1840,7 +1840,7 @@ translate spanish game_script_8c450bc3:
 translate spanish game_script_191b4a33:
 
     # mc "Don’t let me keep you waiting. I’ll let your family know where you are."
-    mc "No te atraso más. Ahora le digo a tus padres dónde estás, ¿vale?"
+    mc "No te atraso más. Ahora le digo a tus padres dónde estás, ¿va?"
 
 # game/game_script.rpy:565
 translate spanish game_script_9cf703cd:
@@ -1876,7 +1876,7 @@ translate spanish game_script_12f1f96c:
 translate spanish game_script_89ea0daf:
 
     # "The bus ride seemed to breeze right on by. I barely remember it."
-    "El trayecto en autobús ha pasado volando. Ni lo recuerdo ya."
+    "El trayecto de regreso ha pasado volando. Ni lo recuerdo ya."
 
 # game/game_script.rpy:582
 translate spanish game_script_1286903d:

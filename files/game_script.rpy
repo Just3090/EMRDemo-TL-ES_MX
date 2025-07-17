@@ -16,7 +16,7 @@ translate spanish game_script_f55f58cd:
 translate spanish game_script_5f35e367:
 
     # "But Sayori isn't answering her phone."
-    "Pero ella ni siquiera contesta el teléfono."
+    "Pero ni siquiera contesta el teléfono."
 
 # game/game_script.rpy:18
 translate spanish game_script_f01b5f50:

@@ -1,6 +1,6 @@
 ﻿# TODO: Translation updated at 2025-07-11 21:23
 
-translate spanish strings:
+translate spanish_mx strings:
 
     # renpy/common/00accessibility.rpy:28
     old "Self-voicing disabled."
